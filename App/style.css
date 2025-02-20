@@ -1,0 +1,65 @@
+
+#entete{
+    background-color: black; 
+}
+
+#entete_nom_app {
+    color: rgb(174, 0, 255);
+    font-family: "megatrans demo";
+    font-size: 20px;
+    padding-left: 25%;
+}
+
+#bouton_parametre {
+    background-color: black;
+    border: none;
+    color: rgb(174, 0, 255);
+    font-family: "megatrans demo";
+    font-size: 25px;
+    padding-right: 25%;
+}
+
+#zone_sous_entete {
+    background: qlineargradient(x1:0.25, y1:0.25, x2:1, y2:1, stop:0 black, stop:1 blueviolet);
+}
+
+#rectangle_noir {
+    min-height: 500%;
+    max-width: 1300%;
+    margin-bottom: 150%;
+    margin-left: 40%;
+    background-color: black;
+}
+
+#bouton_enregistrer {
+    background-color: black;
+    border: none;
+    color: rgb(174, 0, 255);
+    font-family: "megatrans demo";
+    font-size: 35px;
+}
+
+#texte_parametre {
+    font-family: "megatrans demo";
+    font-size: 30px;
+    color: white;
+}
+
+#line_edit_valeur_flou {
+    width: 80%;
+    height: 30%;
+    font-family: "Arial";
+    font-size: 20px;
+    color: grey;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 5px 10px;
+}
+
+#bouton_entree_valeur_flou {
+    height: 35%;
+    width: 5%;
+    color: white;
+}
+
